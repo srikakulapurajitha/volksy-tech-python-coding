@@ -5,3 +5,4 @@ for i in  range(10):
             print("89")
         elif i < j:
             print("{:d}{:d}" .format(i, j), end=", ")
+
